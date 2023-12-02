@@ -8,7 +8,7 @@ Welcome to the Packet Sniffer GUI project! This Python-based application provide
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/packet-sniffer-gui.git
+   git clone https://github.com/Pranav-Amin-10/PacketSnifferGUI.git
    ```
 
 2. Install dependencies:
