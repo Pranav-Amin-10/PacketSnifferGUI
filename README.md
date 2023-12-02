@@ -4,23 +4,6 @@
 
 Welcome to the Packet Sniffer GUI project! This Python-based application provides a user-friendly graphical interface for capturing and analyzing network packets, leveraging the Tkinter library for GUI development and Scapy for packet manipulation. This tool empowers users to customize packet capture by specifying the network interface, output file, and setting a limit on the number of captured packets.
 
-### **Usage:**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Pranav-Amin-10/PacketSnifferGUI.git
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install scapy
-   ```
-
-3. Run the script:
-   ```bash
-   python packet_sniffer_gui.py
-   ```
-
 ### **GUI Elements:**
 
 - **Interface:**
